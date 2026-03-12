@@ -16,8 +16,7 @@
 
 | Avatar                                                                            | Name                           | steamid                                                                     | is_friend   | BFD                 | Remark   | removed_time        |
 |:----------------------------------------------------------------------------------|:-------------------------------|:----------------------------------------------------------------------------|:------------|:--------------------|:---------|:--------------------|
-| ![](https://avatars.steamstatic.com/d41abd4be0b3769e1919802da758591a11639b13.jpg) | Felix_SYS                      | [76561199384218136](https://steamcommunity.com/profiles/76561199384218136/) | ❌           | 2022-08-14 01:06:38 |          | 2026-03-12 21:54:27 |
-| ![](https://avatars.steamstatic.com/ef15d4fa577672454e11c4dc5fbfa9fc71722ede.jpg) | ROOT                           | [76561199211756935](https://steamcommunity.com/profiles/76561199211756935/) | ❌           | 2021-10-02 11:23:03 |          | 2026-03-12 21:54:27 |
+
 | ![](https://avatars.steamstatic.com/00b9593901db5254eda222e45d8b74b06ddf2851.jpg) | nyaacho                        | [76561199496595850](https://steamcommunity.com/profiles/76561199496595850/) | ✅           | 2025-08-25 22:17:11 |          |                     |
 | ![](https://avatars.steamstatic.com/be2af6986afb196fdaa4b7d704d49de20a72927e.jpg) | ✨candy🐟                        | [76561198856992922](https://steamcommunity.com/profiles/76561198856992922/) | ✅           | 2026-02-19 21:37:32 |          |                     |
 | ![](https://avatars.steamstatic.com/aedfed724dc8a9ee3f9c0d53dab78a4a4cf98c66.jpg) | LEGIのN                         | [76561199147539326](https://steamcommunity.com/profiles/76561199147539326/) | ✅           | 2026-02-14 19:20:44 |          |                     |
